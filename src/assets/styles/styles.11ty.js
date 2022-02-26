@@ -73,7 +73,7 @@ module.exports = class {
         } 
         body::before { 
             content: ''; 
-            background: #000;
+            background: #161B22;
             top: 0;
             bottom: 0;
             width: 100%;
