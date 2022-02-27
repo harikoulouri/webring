@@ -2,6 +2,7 @@
     "title": "SWkey",
     "description": "This is just a demo of a webring. It could be about anything - Metal Bands, Knitting, Craft Beer, Accessibility... For this one, let's just say it's about the good old 90s.",
     "image": "freakazoid.jpg",
+    "icon": "icon.png",
     "url": "https://swkey.netlify.app/",
     "repo": "https://github.com/SWkey/webring",
     "admins": [
